@@ -5,6 +5,13 @@ sitemap:
 ---
 
 $(document).ready(function () {
+  const link = $('.panel-main__topbar>a').get()
+    .find(v => v)
+  link.href = window.location.origin
+
+  const fingerRightIcon = $('i.far.fa-hand-point-right')
+  $(fingerRightIcon).addClass('hidden')
+
   const toggleContent = function (e) {
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
     currentWidth = $('.panel-cover').width()
@@ -12,6 +19,7 @@ $(document).ready(function () {
       $('.panel-cover').addClass('panel-cover--collapsed')
       $('.content-wrapper').addClass('animated slideInRight')
     } else {
+      $(fingerRightIcon).removeClass('hidden')
       $('.panel-cover').css('max-width', currentWidth)
       $('.panel-cover').animate({'max-width': '530px', 'width': '40%'}, 400, swing = 'swing', function () {})
     }
@@ -20,12 +28,20 @@ $(document).ready(function () {
 
   $('a.about-button').click(toggleContent)
 
-  if (window.location.hash && window.location.hash == '#blog') {
+  const { hash, pathname } = window.location
+
+  console.log({pathname})
+
+  const baseurl = '{{ site.baseurl }}'
+
+  if (hash && hash == '#blog') {
     $('.panel-cover').addClass('panel-cover--collapsed')
+    $(fingerRightIcon).removeClass('hidden')
   }
 
-  if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
+  if (pathname !== baseurl + '/' && pathname !== baseurl + '/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
+    $(fingerRightIcon).removeClass('hidden')
   }
 
   $('.btn-mobile-menu').click(function () {

@@ -6,6 +6,18 @@
 
 /* Modifications */
 
+.panel-main__topbar {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  margin: 10px 0;
+  &>a>i.far.fa-hand-point-right {
+    margin-right: -1.5rem;
+    margin-top: -1.5rem;
+    font-size: 200%;
+  }
+}
+
 pre.highlight,
 .highlight pre {
   padding: 10px;

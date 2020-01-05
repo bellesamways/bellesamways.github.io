@@ -5,10 +5,14 @@
 
 <header class="panel-cover" style="background-image: url({{ site.baseurl }}/images/bg-home.jpg)">
   <div class="panel-main">
-
     <div class="panel-main__inner panel-inverted">
-    <div class="panel-main__content">
-        <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
+      <div class="panel-main__topbar">
+        <a href="{{ site.baseurl }}">
+          <i class="far fa-hand-point-right"></i>
+        </a>
+      </div>
+      <div class="panel-main__content">
+        <a href="/" title="link to home of {{ site.title }}">
           <img src="{{ site.baseurl }}/images/profile.jpg" class="user-image" alt="My Profile Photo">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         </a>
