@@ -1,0 +1,43 @@
+# Site settings
+title: Isabelle Samways
+description: Tranformo café e álcool em códigos.
+url: 'http://bellesamways.github.io'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Isabelle Samways'
+  email: belesamways@gmail.com
+  twitter_username: bellesamways
+  facebook_username: isa.samways
+  github_username:  bellesamways
+  linkedin_username:  bellesamways
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
