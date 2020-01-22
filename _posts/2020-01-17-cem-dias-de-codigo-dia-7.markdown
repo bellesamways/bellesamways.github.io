@@ -5,7 +5,7 @@ categories: [cemdiasdecodigo]
 tags: [cemdiasdecodigo]
 ---
 
-Dia 7 do [#100daysofcode](https://twitter.com/hashtag/100DaysOfCode).
+Dia 7 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}*.
 
 Hoje tivemos mais um pouco de rubyzinho
 

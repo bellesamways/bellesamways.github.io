@@ -5,7 +5,7 @@ categories: [cemdiasdecodigo]
 tags: [cemdiasdecodigo]
 ---
 
-Dia 6 do [#100daysofcode](https://twitter.com/hashtag/100DaysOfCode).
+Dia 6 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}*.
 
 Ruby, Ruby, Ruby, Rubyyyy
 

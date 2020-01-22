@@ -5,7 +5,7 @@ categories: [cemdiasdecodigo]
 tags: [cemdiasdecodigo]
 ---
 
-Dia 5 do [#100daysofcode](https://twitter.com/hashtag/100DaysOfCode).
+Dia 5 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}*.
 
 Dia do cursinho de Ruby on Rails.
 

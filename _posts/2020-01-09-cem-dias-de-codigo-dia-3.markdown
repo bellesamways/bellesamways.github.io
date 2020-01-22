@@ -5,7 +5,7 @@ categories: [cemdiasdecodigo]
 tags: [cemdiasdecodigo]
 ---
 
-Dia 3 do [#100daysofcode](https://twitter.com/hashtag/100DaysOfCode).
+Dia 3 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}*.
 
 Depois de alguns sustos durante a semana, meu marido quase infartando e cansaço, voltei hoje a dar uma estudada nessa coisinha linda que é o Rubu on Rails.
 

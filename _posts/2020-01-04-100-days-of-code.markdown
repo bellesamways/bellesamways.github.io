@@ -21,11 +21,11 @@ Começando hoje, dia 04/01/2020 (eu acabei de errar e escrever 2019, eu vou assi
 
 Primeiro dia!! Fui um peso de porta durante o dia todo, o que me deu uma super energia e comecei a ver as coisinhas do blog agora a noite.
 
-Eu já tava mais ou menos ligada de como funcionava jekyll, tinha até pego um curso do [Willian Justen](https://twitter.com/Willian_justen) mas não foi muito necessário já que não alterei grande coisa no template que peguei.
+Eu já tava mais ou menos ligada de como funcionava jekyll, tinha até pego um curso do *[Willian Justen](https://twitter.com/Willian_justen){:target="_blank"}* mas não foi muito necessário já que não alterei grande coisa no template que peguei.
 
 Minha briga maior hoje foi fazer a configuração de DNS, primeiro comecei com a Digital Ocean e depois fui pro CloudFlare que tava mais simples kkkk
 
-Vi um pouco de curso de jekyll, arrumei o repositório de [studynotes](https://github.com/bellesamways/studynotes) e agora ele tem uma parte nesse blog também! Se quiser acessar ele direto, [clica aqui](https://bellesamways.dev/studynotes/).
+Vi um pouco de curso de jekyll, arrumei o repositório de *[studynotes](https://github.com/bellesamways/studynotes){:target="_blank"}* e agora ele tem uma parte nesse blog também! Se quiser acessar ele direto, *[clica aqui](https://bellesamways.dev/studynotes/){:target="_blank"}*.
 
 Tá, hoje eu fiz muito mais que uma hora, mas é pra compensar o tempo que fiquei sendo um peso de papel.
 

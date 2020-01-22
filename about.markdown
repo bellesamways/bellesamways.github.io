@@ -6,11 +6,11 @@ permalink: /about
 
 ## Olar!
 
-Sou Isabelle, mais conhecida no twitter como **[bellesamways](https://twitter.com/bellesamways)**.
+Sou Isabelle, mais conhecida no twitter como **[bellesamways](https://twitter.com/bellesamways){:target="_blank"}**.
 
-Tenho 25 anos, sou casada com um dev também, o **[yemolai](https://twitter.com/yemolai)**. Moramos em Curitiba - PR.
+Tenho 25 anos, sou casada com um dev também, o **[yemolai](https://twitter.com/yemolai){:target="_blank"}**. Moramos em Curitiba - PR.
 
-TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](images/Curriculo-IsabelleGomesSamways.pdf)*. Mas leia tudo, é legal, eu garanto :)
+TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](images/Curriculo-IsabelleGomesSamways.pdf){:target="_blank"}*. Mas leia tudo, é legal, eu garanto :)
 
 #### Bom, um pouquinho sobre mim:
 

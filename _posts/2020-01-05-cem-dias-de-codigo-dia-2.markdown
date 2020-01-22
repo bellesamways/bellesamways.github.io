@@ -5,7 +5,7 @@ categories: [cemdiasdecodigo]
 tags: [cemdiasdecodigo]
 ---
 
-Dia 2 do [#100daysofcode](https://twitter.com/hashtag/100DaysOfCode) e fiz algumas horas novamente.
+Dia 2 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}* e fiz algumas horas novamente.
 
 Hoje briguei muito com o CSS pra mudar algumas coisinhas no blog.
 
