@@ -40,7 +40,7 @@ TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](imag
 #### Tá Isa, e o trabalho?
 
 - comecei a trabalhar muito cedo, isso me fez dar valor ao trabalho, seja ele qual for;
-- aos 17 anos, logo após não passar no vestibular, decidi que seria a hora de entrar para o mercado e decidir o que realmente fazer da vida. Virei atendente num cursinho pra concursos públicos (*R.I.P*) e depois fiz um curso de *CorelDrawX5* e virei a gráfica do curso.
+- **aos 17 anos**, logo após não passar no vestibular, decidi que seria a hora de entrar para o mercado e decidir o que realmente fazer da vida. Virei **atendente** num cursinho pra concursos públicos (*R.I.P*) e depois fiz um curso de *CorelDrawX5* e virei a **gráfica** do curso.
 - **aos 18**, comecei a trabalhar na **antiga GVT**, como atendente de cobrança. Sim, telemarketing. Lá eu fiquei por **4 anos e meio**, passando por alguns setores e tipos de cliente, inclusive passando pela compra da GVT pela Vivo/Telefônica.
 - **aos 22**, depois de entrar na UTFPR, eu estava a ponto de enlouquecer no local de trabalho, decidi me aventurar e sair de lá e entrar na **Eadbox** como estagiária. Quando eu decidi isso, muito gente achou que ia ser loucura trocar um salário "bom" e com bons benefícios por um estágio, sem segurança alguma, ganhando muito menos. Bati o pé e fui.
 - **em 6 meses de empresa**, como suporte ao cliente, fui pra área de produto e me tornei **Product Manager**. Tirei certificação de Scrum, e inclusive dei algumas palestras sobre isso em eventos.
@@ -71,4 +71,4 @@ TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](imag
 
 **Certificações (por enquanto só tem um item na lista, logo aumentará):**
 
-- *[Scrum Foundation Professional Certificate (SFPC)](images/CertificateScrum.pdf)* **(Clique para ver)**
+- *[Scrum Foundation Professional Certificate (SFPC)](images/CertificateScrum.pdf){:target="_blank"}* **(Clique para ver)**
