@@ -5,7 +5,7 @@ categories: [cemdiasdecodigo]
 tags: [cemdiasdecodigo]
 ---
 
-Dia 13 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}*.
+Dia 12 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}*.
 
 Esses dias não tenho feito meu curso porque estava bem atarefada no trabalho e não consegui ter ânimo pra estudar.
 
