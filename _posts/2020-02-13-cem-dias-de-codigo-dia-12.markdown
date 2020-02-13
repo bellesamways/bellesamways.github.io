@@ -1,20 +1,22 @@
 ---
-title:  "Cem dias de código - Dia 11"
-date:   2020-02-04 19:10:00
+title:  "Cem dias de código - Dia 12"
+date:   2020-02-13 19:15:00
 categories: [cemdiasdecodigo]
 tags: [cemdiasdecodigo]
 ---
 
-Dia 11 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}*.
+Dia 13 do *[#100daysofcode](https://twitter.com/hashtag/100DaysOfCode){:target="_blank"}*.
 
-Hoje tava resolvendo um bug no trabalho e fazendo o teste pra ele aprendi o que era o *[slice](https://apidock.com/rails/Hash/slice){:target="_blank"}* e o *[splat](https://www.freecodecamp.org/news/rubys-splat-and-double-splat-operators-ceb753329a78/){:target="_blank"}* e como usar ambos. Foi difícil entender até que o sênior veio e me explicou como se tivesse explicando pra uma criança de 5 anos, daí eu entendi kkk
+Esses dias não tenho feito meu curso porque estava bem atarefada no trabalho e não consegui ter ânimo pra estudar.
 
-Tive que usar ele no meu teste porque eu recebia uma resposta de API e tinha que comparar com outro array que eu tinha que ter pelo menos alguns campos dele dentro da minha resposta da API.
+Resolvi alguns bugs nesse período, fiz uma feature sozinha e aprendi a fazer alguns testes sozinha também YEYYY
 
-Pra isso eu peguei só uma parte da resposta da API, coloquei um `.slice` e depois um splat `*` que destrinchava o array que eu tinha em parâmetros pra poder comparar com a minha resposta.
+Ontem foi o dia que mais tive orgulho porque resolvi um bug em 20 minutos kkkkk
 
-Foi loco, eu nem sabia que existia isso até hoje a tarde. Pode ser inclusive que eu tenha explicado meio errado, mas faz parte kkkk
+Depois de tudo isso, voltei a mexer no meu projetinho, hoje aprendi a usar uma gema que adiciona automaticamente campos novos no formulário, a partir de uma partial e também pode remover esses campos.
 
-Depois fiz um pouco de curso de RoR e vi um pouco sobre associação Has Many e como ela influencia.
+Também vi uma outra gema sobre paginação e como ela funciona. Já coloquei tudo isso no projetinho que já tá no github. :)
 
-Por hoje finalizei, e você, já aprendeu algo novo hoje? ;)
+Por hoje é só, não ando me forçando muito pra estudar porque ainda são férias da faculdade e quero aproveitar pra descansar o máximo possível!
+
+Até outro dia!
