@@ -9,11 +9,11 @@ baseurl: ''
 author:
   name: 'Isabelle Samways'
   email: contato@bellesamways.dev
-  telegram_username: bellesamways
+  telegram_username:
   twitter_username: bellesamways
   instagram_username: bellesamways
-  facebook_username: isa.samways
-  github_username:  bellesamways
+  facebook_username:
+  github_username: bellesamways
   gitlab_username: bellesamways
   speakerdeck_username: bellesamways
   linkedin_username:  bellesamways
