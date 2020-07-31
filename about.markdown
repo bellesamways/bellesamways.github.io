@@ -1,6 +1,6 @@
 ---
 title:  "About"
-date:   2020-01-22 19:20:00
+date:   2020-07-30 22:00:00
 permalink: /about
 ---
 
@@ -10,7 +10,7 @@ Sou Isabelle, mais conhecida no twitter como **[bellesamways](https://twitter.co
 
 Tenho 25 anos, sou casada com um dev também, o **[yemolai](https://twitter.com/yemolai){:target="_blank"}**. Moramos em Curitiba - PR.
 
-TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](images/Curriculo-IsabelleGomesSamways.pdf){:target="_blank"}*. Mas leia tudo, é legal, eu garanto :)
+TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](images/Curriculo-IsabelleSamways.pdf){:target="_blank"}*. Mas leia tudo, é legal, eu garanto :)
 
 #### Bom, um pouquinho sobre mim:
 
@@ -54,10 +54,6 @@ TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](imag
 - HTML5
 - CSS3
 - Markdown
-- Matlab
-- C
-- C++
-- Java
 - Ruby on Rails
 
 **Bancos de dados (por enquanto só tem um item na lista, logo aumentará):**
@@ -67,7 +63,6 @@ TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](imag
 **Língua estrangeira:**
 
 - Inglês intermediário, me viro bem pra ler e escrever;
-- Espanhol, bem básico.
 
 **Certificações (por enquanto só tem um item na lista, logo aumentará):**
 
