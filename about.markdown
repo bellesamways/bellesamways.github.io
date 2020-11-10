@@ -1,16 +1,68 @@
 ---
-title:  "About"
+title:  "Sobre"
 date:   2020-07-30 22:00:00
-permalink: /about
+permalink: /sobre
 ---
 
 ## Olar!
 
 Sou Isabelle, mais conhecida no twitter como **[bellesamways](https://twitter.com/bellesamways){:target="_blank"}**.
 
-Tenho 25 anos, sou casada com um dev também, o **[yemolai](https://twitter.com/yemolai){:target="_blank"}**. Moramos em Curitiba - PR.
+Tenho 25 anos, sou casada com um dev também, o **[yemolai](https://twitter.com/yemolai){:target="_blank"}**. Moramos em Curitiba - PR e fazemos parte da organização da **[CapiConf](https://capiconf.com/){:target="_blank"}**.
 
 TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](images/Curriculo-IsabelleSamways.pdf){:target="_blank"}*. Mas leia tudo, é legal, eu garanto :)
+
+#### Como eu trabalho?
+
+- comecei a trabalhar muito cedo, isso me fez dar valor ao trabalho, seja ele qual for;
+- **aos 17 anos**, logo após não passar no vestibular, decidi que seria a hora de entrar para o mercado e decidir o que realmente fazer da vida. Virei **atendente** num cursinho pra concursos públicos (*R.I.P*) e depois fiz um curso de *CorelDrawX5* e virei a **gráfica** do curso.
+- **aos 18**, comecei a trabalhar na **antiga GVT**, como atendente de cobrança. Sim, telemarketing. Lá eu fiquei por **4 anos e meio**, passando por alguns setores e tipos de cliente, inclusive passando pela compra da GVT pela Vivo/Telefônica.
+- **aos 22**, depois de entrar na UTFPR, eu estava a ponto de enlouquecer no local de trabalho, decidi me aventurar e sair de lá e entrar na **Eadbox** como estagiária. Quando eu decidi isso, muito gente achou que ia ser loucura trocar um salário "bom" e com bons benefícios por um estágio, sem segurança alguma, ganhando muito menos. Bati o pé e fui.
+- **em 6 meses de empresa**, como suporte ao cliente, fui pra área de produto e me tornei **Product Manager**. Tirei certificação de Scrum, e inclusive dei algumas palestras sobre isso em eventos.
+- **em 1 ano de Product Manager e 1 ano e meio de empresa**, já com um conhecimento enorme do produto, decidi me aventurar no suporte nível 2 com o foco no dev. Entrei e em alguns meses, eu fui efetivada como **Desenvolvedora Back-End Junior**, com o meu Ruby on Rails lindo.
+- Hoje, a empresa já não é mais **Eadbox** e sim **Herospark**, eu já aprendi muito mais do que eu sabia e já fiz alguns cursos pra aprender mais um pouco. O que eu tiro de lição desses dois anos e pouco na empresa? Arrisque, mesmo que todos falem que é loucura. Se você não arriscar, nunca vai saber se teria dado certo ou não.
+- Depois dessa experiência na HeroSpark, fui dev também na **Data Science Brigade**, onde pude trabalhar mais o lado de criar coisas do zero, projetos filhos hahah. Ajudei a criar e entregar um MVP.
+- Agora eu sou prestadora de serviços para a **[IdopterLabs](https://www.idopterlabs.com.br/){:target="_blank"}** e faço freelas nas horas vagas (se quiser me chamar para um freela, só mandar email para contato@bellesamways.dev) :)
+
+#### Pra quem tem um interesse em um match profissional:
+
+**Linguagens que eu conheço/manjo, algumas mais, outras menos:**
+
+- Ruby on Rails
+- HTML5
+- CSS3
+- Markdown
+- Um pouco de JavaScript
+
+**Bancos de dados:**
+
+- MongoDB
+- PostgreSQL
+
+**Outros:**
+
+- Agile
+- Linux
+- Git
+- Gestão de Projeto
+- Testes unitários, de integração e e2e (Minitest, RSpec, Capybara e Selenium)
+
+**Língua estrangeira:**
+
+- Inglês intermediário, me viro bem pra ler e escrever;
+
+**Certificações:**
+
+- *[Scrum Foundation Professional Certificate (SFPC)](images/CertificateScrum.pdf){:target="_blank"}* **(Clique para ver)**
+
+#### Agora um pouquinho sobre minha vida educacional:
+
+- estudei praticamente a vida toda em escola particular, bolsista obviamente;
+- era adiantada na escola, formei no ensino médio com 16 anos;
+- meu primeiro vestibular foi pra química na UEPG, fiquei em 19º mas não passei;
+- entrei em **Sistemas de Telecomunicações na UTFPR** em **2017** e confirmei que eu realmente não gostava de *elétrica e eletrônica*, mas a faculdade me trouxe o estágio em dev (que hoje eu sou contratada) e aprendi a fazer uma soldinha linda;
+- decidi trocar de curso e em **2019** entrei em **Análise e Desenvolvimento de Sistemas na Estácio**, a distância. cansei de ter que ir pra aula apenas por presença, sendo que tinha que estudar sozinha em casa de novo.
+- hoje eu realmente tenho uma previsão de me **formar no meio de 2021**.
 
 #### Bom, um pouquinho sobre mim:
 
@@ -26,44 +78,3 @@ TLDR: se quiser pular tudo isso e só baixar meu currículo, *[clique aqui](imag
 - se você me encontrar por aí, e eu te conhecer, talvez eu lembre da sua cara mas não do seu nome kkkkkk;
 - não sei se ficou claro, mas sou péssima com nomes;
 - e pra terminar, eu **AMO** moletons e tênis, tenho uma coleção em casa, em compensação eu uso até se desfazer e não ter mais condições de utilizar nem como pano de chão.
-
-#### Agora um pouquinho sobre minha vida educacional:
-
-- estudei praticamente a vida toda em escola particular, bolsista obviamente;
-- era adiantada na escola, formei no ensino médio com 16 anos;
-- meu primeiro vestibular foi pra química na UEPG, fiquei em 19º mas não passei;
-- entrei em **Sistemas de Telecomunicações na UTFPR** em **2017** e confirmei que eu realmente não gostava de *elétrica e eletrônica*, mas a faculdade me trouxe o estágio em dev (que hoje eu sou contratada) e aprendi a fazer uma soldinha linda;
-- decidi trocar de curso e em **2019** entrei em **Análise e Desenvolvimento de Sistemas na Estácio**, a distância. cansei de ter que ir pra aula apenas por presença, sendo que tinha que estudar sozinha em casa de novo.
-- hoje eu realmente tenho uma previsão de me **formar no meio de 2021**.
-
-
-#### Tá Isa, e o trabalho?
-
-- comecei a trabalhar muito cedo, isso me fez dar valor ao trabalho, seja ele qual for;
-- **aos 17 anos**, logo após não passar no vestibular, decidi que seria a hora de entrar para o mercado e decidir o que realmente fazer da vida. Virei **atendente** num cursinho pra concursos públicos (*R.I.P*) e depois fiz um curso de *CorelDrawX5* e virei a **gráfica** do curso.
-- **aos 18**, comecei a trabalhar na **antiga GVT**, como atendente de cobrança. Sim, telemarketing. Lá eu fiquei por **4 anos e meio**, passando por alguns setores e tipos de cliente, inclusive passando pela compra da GVT pela Vivo/Telefônica.
-- **aos 22**, depois de entrar na UTFPR, eu estava a ponto de enlouquecer no local de trabalho, decidi me aventurar e sair de lá e entrar na **Eadbox** como estagiária. Quando eu decidi isso, muito gente achou que ia ser loucura trocar um salário "bom" e com bons benefícios por um estágio, sem segurança alguma, ganhando muito menos. Bati o pé e fui.
-- **em 6 meses de empresa**, como suporte ao cliente, fui pra área de produto e me tornei **Product Manager**. Tirei certificação de Scrum, e inclusive dei algumas palestras sobre isso em eventos.
-- **em 1 ano de Product Manager e 1 ano e meio de empresa**, já com um conhecimento enorme do produto, decidi me aventurar no suporte nível 2 com o foco no dev. Entrei e em alguns meses, eu fui efetivada como **Desenvolvedora Back-End Junior**, com o meu Ruby on Rails lindo.
-- Hoje, a empresa já não é mais **Eadbox** e sim **Herospark**, eu já aprendi muito mais do que eu sabia e já fiz alguns cursos pra aprender mais um pouco. O que eu tiro de lição desses dois anos e pouco na empresa? Arrisque, mesmo que todos falem que é loucura. Se você não arriscar, nunca vai saber se teria dado certo ou não.
-
-#### Agora é só pra quem tem um interesse em um match profissional:
-
-**Linguagens que eu conheço/manjo, algumas mais, outras menos:**
-
-- HTML5
-- CSS3
-- Markdown
-- Ruby on Rails
-
-**Bancos de dados (por enquanto só tem um item na lista, logo aumentará):**
-
-- MongoDB
-
-**Língua estrangeira:**
-
-- Inglês intermediário, me viro bem pra ler e escrever;
-
-**Certificações (por enquanto só tem um item na lista, logo aumentará):**
-
-- *[Scrum Foundation Professional Certificate (SFPC)](images/CertificateScrum.pdf){:target="_blank"}* **(Clique para ver)**

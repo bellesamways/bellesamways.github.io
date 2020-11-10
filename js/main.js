@@ -29,17 +29,15 @@ $(document).ready(function () {
   $('a.about-button').click(toggleContent)
 
   const { hash, pathname } = window.location
-
-  console.log({pathname})
-
+  
   const baseurl = '{{ site.baseurl }}'
 
-  if (hash && hash == '#blog') {
-    $('.panel-cover').addClass('panel-cover--collapsed')
-    $(fingerRightIcon).removeClass('hidden')
-  }
+  const notInHome = (hash && hash == '#blog')
+    || (pathname !== baseurl + '/' && pathname !== baseurl + '/index.html')
 
-  if (pathname !== baseurl + '/' && pathname !== baseurl + '/index.html') {
+  $('.content-wrapper').toggleClass('no-overflow', !notInHome)
+  
+  if (notInHome) {
     $('.panel-cover').addClass('panel-cover--collapsed')
     $(fingerRightIcon).removeClass('hidden')
   }

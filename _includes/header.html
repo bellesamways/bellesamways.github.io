@@ -13,7 +13,7 @@
       </div>
       <div class="panel-main__content">
         <a href="/" title="link to home of {{ site.title }}">
-          <img src="{{ site.baseurl }}/images/profile.jpg" class="user-image" alt="My Profile Photo">
+          <img src="{{ site.baseurl }}/images/isabelle.jpg" class="user-image" alt="My Profile Photo">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         </a>
         <hr class="panel-cover__divider">
@@ -24,9 +24,9 @@
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/studynotes" title="link to {{ site.title }} Study Notes" target="_blank" class="studynotes-button">Study Notes</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link to {{ site.title }} blog" class="blog-button">Blog</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="link to {{ site.title }} about" class="about-button">About</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/studynotes" title="link para {{ site.title }} Study Notes" target="_blank" class="studynotes-button">Study Notes</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link para {{ site.title }} blog" class="blog-button">Blog</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/sobre" title="link para {{ site.title }} sobre" class="about-button">Sobre</a></li>
             </ul>
           </nav>
 
@@ -43,25 +43,15 @@
               </li>
             {% endif %}
 
-            {% if site.author.instagram_username %}
-              <!-- Instagram -->
+            {% if site.author.email %}
+              <!-- Email -->
               <li class="navigation__item">
-                <a href="http://instagram.com/{{ site.author.instagram_username }}" title="@{{ site.author.instagram_username }} on Instagram" target="_blank">
-                  <i class="fab fa-instagram"></i>
-                  <span class="label">Instagram</span>
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                  <i class="far fa-envelope"></i>
+                  <span class="label">Email</span>
                 </a>
               </li>
             {% endif %}
-
-            <!-- {% if site.author.facebook_username %} -->
-              <!-- Facebook -->
-              <!-- <li class="navigation__item"> -->
-                <!-- <a href="http://fb.me/{{ site.author.facebook_username }}" title="{{ site.author.facebook_username }} on Facebook" target="_blank"> -->
-                  <!-- <i class="fab fa-facebook-f"></i> -->
-                  <!-- <span class="label">Facebook</span> -->
-                <!-- </a> -->
-              <!-- </li> -->
-            <!-- {% endif %} -->
 
             {% if site.author.linkedin_username %}
               <!-- LinkedIn -->
@@ -93,6 +83,26 @@
               </li>
             {% endif %}
 
+            {% if site.author.instagram_username %}
+              <!-- Instagram -->
+              <li class="navigation__item">
+                <a href="http://instagram.com/{{ site.author.instagram_username }}" title="@{{ site.author.instagram_username }} on Instagram" target="_blank">
+                  <i class="fab fa-instagram"></i>
+                  <span class="label">Instagram</span>
+                </a>
+              </li>
+            {% endif %}
+
+            <!-- {% if site.author.facebook_username %} -->
+              <!-- Facebook -->
+              <!-- <li class="navigation__item"> -->
+                <!-- <a href="http://fb.me/{{ site.author.facebook_username }}" title="{{ site.author.facebook_username }} on Facebook" target="_blank"> -->
+                  <!-- <i class="fab fa-facebook-f"></i> -->
+                  <!-- <span class="label">Facebook</span> -->
+                <!-- </a> -->
+              <!-- </li> -->
+            <!-- {% endif %} -->
+
             {% if site.author.speakerdeck_username %}
               <!-- Speakerdeck -->
               <li class="navigation__item">
@@ -113,23 +123,15 @@
               <!-- </li> -->
             <!-- {% endif %} -->
 
-            {% if site.author.email %}
-              <!-- Email -->
-              <li class="navigation__item">
-                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
-                  <i class="far fa-envelope"></i>
-                  <span class="label">Email</span>
-                </a>
-              </li>
-            {% endif %}
+            
 
             <!-- RSS -->
-            <li class="navigation__item">
+            <!-- <li class="navigation__item">
               <a href="{{ site.baseurl }}/feed.xml" title="Subscribe" target="_blank">
                 <i class="fas fa-rss"></i>
                 <span class="label">RSS</span>
               </a>
-            </li>
+            </li> -->
 
             </ul>
           </nav>
